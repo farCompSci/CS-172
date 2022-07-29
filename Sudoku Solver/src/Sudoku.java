@@ -1,9 +1,5 @@
 /**
- * Julian and Farjad
- * The Sudoku solver.
- *
- * @author PUT THE FIRST NAME HERE
- * @author PUT THE SECOND NAME HERE
+
  */
 public class Sudoku {
 

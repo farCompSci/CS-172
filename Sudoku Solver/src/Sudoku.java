@@ -1,6 +1,4 @@
-/**
 
- */
 public class Sudoku {
 
     /** Prints the solution to the puzzle in the specified directory. */

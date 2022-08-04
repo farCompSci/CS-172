@@ -1,8 +1,3 @@
-/**
- * One square in the Sudoku grid.
- *
- * @author Peter Drake
- */
 public class Square {
 
     /** 1 through 9, or 0 if this square doesn't have a value yet. */
